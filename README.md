@@ -83,7 +83,8 @@ int main()
 }
 ```
 # OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c2bb2cfb-31b7-4e6d-b08f-adb7e69b1594)
+
 
 
 # RESULT:
